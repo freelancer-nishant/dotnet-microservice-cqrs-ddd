@@ -2,7 +2,7 @@
 
 This project is a sample of microservices architecture with .NET 8. You can see the overall picture below here;
 
-![samplebank]()
+![samplebank](https://github.com/freelancer-nishant/dotnet-microservice-cqrs-ddd/blob/master/microservice.png)
 
 ## Whats Including
 
